@@ -8,4 +8,4 @@
 
 
 
-dinosaurs are cool.
+dinosaurs are very cool.
